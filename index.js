@@ -5,7 +5,7 @@ const gitRemoteOriginUrl = require('git-remote-origin-url');
 
 gitRemoteOriginUrl().then(url => {
     // for bitbucket 
-    // url = https://username@bitbucket.org/team/repositry.it
+    // url = https://username@bitbucket.org/team/repository.it
     let removeGit,
         splitChar,
         i,

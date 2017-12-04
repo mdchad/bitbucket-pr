@@ -1,0 +1,17 @@
+{
+  "name": "bitb-pr",
+  "version": "1.0.0",
+  "description": "This is CLI to create pull-request to bitbucket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "bit-pr": "./index.js"
+  },
+  "dependencies": {
+    "git-branch": "^1.0.0"
+  }
+}

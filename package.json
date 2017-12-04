@@ -12,6 +12,8 @@
     "bit-pr": "./index.js"
   },
   "dependencies": {
-    "git-branch": "^1.0.0"
+    "git-branch": "^1.0.0",
+    "git-remote-origin-url": "^2.0.0",
+    "opn": "^5.1.0"
   }
 }

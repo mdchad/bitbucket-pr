@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bin": {
-    "bit-pr": "./index.js"
+    "bitb-pr": "./index.js"
   },
   "dependencies": {
     "git-branch": "^1.0.0",

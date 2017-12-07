@@ -1,4 +1,4 @@
-# Bitb-pr
+# Bitbucket-pr
 
 CLI for creating Bitbucket pull request
 
@@ -12,4 +12,4 @@ CLI for creating Bitbucket pull request
 
 ## License
 
-MIT [Muhammad Irsyad]
+MIT © [Muhammad Irsyad](https://twitter.com/irsyadchad14)

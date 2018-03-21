@@ -1,7 +1,7 @@
 {
   "name": "bitb-pr",
   "version": "1.0.0",
-  "description": "CLI for making Bitbucket pull request",
+  "description": "CLI for creating Bitbucket pull request",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

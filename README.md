@@ -1,11 +1,9 @@
 # Bitbucket-pr
 
-CLI for making Bitbucket pull request
+Create a pull request from you terminal to your Bitbucket repository. 
 
 ## Usage
-Inside your project folder run
-
-`$ npx bitb-pr `
+Run `$ npx bitb-pr ` inside your project folder
 
 ## License
 

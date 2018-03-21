@@ -1,6 +1,6 @@
 {
   "name": "bitb-pr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI for creating Bitbucket pull request",
   "main": "index.js",
   "scripts": {

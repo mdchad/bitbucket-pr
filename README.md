@@ -1,14 +1,11 @@
 # Bitbucket-pr
 
-CLI for creating Bitbucket pull request
-
-## Install
-
-`npm install -g bitb-pr`
+CLI for making Bitbucket pull request
 
 ## Usage
+Inside your project folder run
 
-`git push && bitb-pr `
+`$ npx bitb-pr `
 
 ## License
 

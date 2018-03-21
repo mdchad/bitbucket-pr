@@ -1,12 +1,31 @@
 {
   "name": "bitb-pr",
   "version": "1.0.0",
-  "description": "This is CLI to create pull-request to bitbucket",
+  "description": "CLI for making Bitbucket pull request",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdchad/bitbucket-pr.git"
+  },
+  "keywords": [
+    "cli",
+    "bitbucket",
+    "pull request",
+    "git",
+    "repo",
+    "repository"
+  ],
+  "author": {
+    "name": "Muhammad Irsyad",
+    "email": "irsyad.muhd@gmail.com",
+    "url": "https://mdchad.github.io/"
+  },
+  "bugs": {
+    "url": "https://github.com/mdchad/bitbucket-pr/issues"
+  },
   "license": "MIT",
   "bin": {
     "bitb-pr": "./index.js"

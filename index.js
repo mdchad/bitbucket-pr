@@ -13,7 +13,8 @@ gitRemoteOriginUrl()
 
         // remove .git
         uri = address.origin + address.pathname.slice(0, -4)
-        open(`${uri}/pull-requests/new?source=${branch.sync()}&t=1`)
+//         open(`${uri}/pull-requests/new?source=${branch.sync()}&t=1`)
+        open(`${uri}/pull-requests/new)
         process.exit()
     }).catch(err => {
         console.log(err)
